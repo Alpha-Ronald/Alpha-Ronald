@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Alpha-Ronald
-- 👀 I’m highly interested in app development for both mobile and web using Flutter.
-- ✔ I also have taken an interest for developing web-apps using Flutter with HTML and CSS.  
-- 💕 My favorite state-management remains the BloC for now. Provider and Riverpod follow next. 
-- ❤  I’m currently improving my skills in Flutter (mostly working on back end improvements)
-- 🌱 I'm also good with graphics design and familiar with modern graphics softwares like photoshop and Figma.
+- 👀 I am passionate about app development for both mobile and web using Flutter. 
+- 💕 I am familiar with the Bloc and Provide State managements for handling complex logic. 
+- ❤  I’m currently improving my skills in Flutter to become a seasoned mobile developer.
 - 💞️ I’m looking to collaborate on any Flutter projects related to producing working applications ranging from open source projects to paid projects.
-- 👌 I recently learnt ad got familiar working with Git and Github and would be posting most of my projects here for any contributions or corrections.
 - 📫 How to reach me: LinkedIn - https://ng.linkedin.com/in/ronald-adewoye-695408249
 
 <!---
