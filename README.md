@@ -12,7 +12,7 @@ I’m a mobile developer with a strong passion for building apps with Flutter. O
 
 Portfolio Link <😶‍🌫️Under construction>
 
-📫 Reach me on LinkedIn: Ronald Adewoye
+📫 Reach me on LinkedIn: https://www.linkedin.com/in/adewoye-ronald-dev/
 <!---
 Alpha-Ronald/Alpha-Ronald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
