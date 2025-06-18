@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Alpha-Ronald
-- 👀 I am passionate about app development for both mobile and web using Flutter. 
-- 💕 I am familiar with the Bloc, provider and Riverpod State management solutions for handling complex logic. 
-- ❤  I’m always improving my skills in Flutter to become a seasoned mobile developer.
-- 💞️ I’m looking to collaborate on any Flutter projects related to producing working applications ranging from open source projects to paid projects.
-- 📫 How to reach me: LinkedIn - https://ng.linkedin.com/in/ronald-adewoye-695408249
+👋 Hi, I’m Ronald Adewoye  <Geek Dev>
 
+Passionate about building elegant, cross-platform applications using Flutter or whatever.
+
+I’m a mobile developer with a strong passion for building apps with Flutter. Over the years, I’ve grown from just writing code to designing systems and managing projects.
+
+🔹 Flutter & Dart — I build reliable mobile and web apps with a focus on clean architecture and smooth performance. I’m comfortable with Bloc, Provider, and Riverpod for handling complex logic.
+
+🔹 System Design & Architecture — I enjoy breaking big ideas into structured, scalable solutions and documenting them clearly. Gotten pretty good at it.
+
+🔹 Project Management — Currently growing into technical leadership roles where I help plan, manage, and deliver projects successfully.
+
+Portfolio Link <😶‍🌫️Under construction>
+
+📫 Reach me on LinkedIn: Ronald Adewoye
 <!---
 Alpha-Ronald/Alpha-Ronald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
